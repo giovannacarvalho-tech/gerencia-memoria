@@ -4,4 +4,4 @@ Prática 1:\
 Alocação e Liberação de Memória;\
 Demonstração de memory leak.\
 Prática 2:\
-  Comparação de FIFO e RLU
+  Comparação de FIFO e LRU
